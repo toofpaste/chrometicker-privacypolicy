@@ -22,6 +22,6 @@ If the privacy practices of the Extension change in the future, this Privacy Pol
 
 ## Contact
 
-If you have any questions about this Privacy Policy or the Extension, please contact the developer at crometicker@proton.me.
+If you have any questions about this Privacy Policy or the Extension, please contact the developer at mjlarragueta@gmail.com.
 
 By using the Extension, you acknowledge that you have read and understood this Privacy Policy.
